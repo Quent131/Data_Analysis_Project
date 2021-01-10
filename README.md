@@ -27,4 +27,4 @@ to
 
 ```python
 data = pickle.load(open('API_data_random.pickle', 'rb'))
-```.
+```
