@@ -28,3 +28,5 @@ to
 ```python
 data = pickle.load(open('API_data_random.pickle', 'rb'))
 ```
+
+This project was something really cool to do and that makes feel like a data scientist. However, as a data scientist we can see that just getting a dataset and no further indications or questions on what to do may be disruptive.
